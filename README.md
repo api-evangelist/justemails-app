@@ -1,4 +1,4 @@
-# justemails-app
+# JustEmails
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,154 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-justemails-app is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://justemails.app/
+JustEmails provides unlimited custom‑domain email hosting with a single inbox per user. It offers auto‑DNS configuration, full IMAP/SMTP access, and a flat $49 per year pricing model without seat‑based fees. Built by Velocity Digital Labs LLC, the service targets individuals and agencies managing multiple domains, delivering a unified dashboard, 10 GB storage per mailbox, and a modern MCP + REST API for integration.
+
+**Areas:** Email · Hosting · CustomDomain · MCP · API
+
+## JustEmails on APIs.io
+
+Everything profiled for JustEmails is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/justemails-app/](https://apis.io/providers/justemails-app/)** — or go straight to one of the APIs or properties below.
+
+### APIs (25)
+
+- [JustEmails Account API](https://apis.io/apis/justemails-app/justemails-app-account-api/) — The account API from JustEmails — 7 operation(s) for account.
+- [JustEmails Analytics API](https://apis.io/apis/justemails-app/justemails-app-analytics-api/) — The Analytics API from JustEmails — 3 operation(s) for analytics.
+- [JustEmails API Keys API](https://apis.io/apis/justemails-app/justemails-app-api-keys-api/) — The api-keys API from JustEmails — 3 operation(s) for api-keys.
+- [JustEmails Billing API](https://apis.io/apis/justemails-app/justemails-app-billing-api/) — The Billing API from JustEmails — 9 operation(s) for billing.
+- [JustEmails Compliance API](https://apis.io/apis/justemails-app/justemails-app-compliance-api/) — The compliance API from JustEmails — 2 operation(s) for compliance.
+- [JustEmails Compose API](https://apis.io/apis/justemails-app/justemails-app-compose-api/) — The compose API from JustEmails — 1 operation(s) for compose.
+- [JustEmails Contacts API](https://apis.io/apis/justemails-app/justemails-app-contacts-api/) — The contacts API from JustEmails — 1 operation(s) for contacts.
+- [JustEmails Domains API](https://apis.io/apis/justemails-app/justemails-app-domains-api/) — The Domains API from JustEmails — 26 operation(s) for domains.
+- [JustEmails Emails API](https://apis.io/apis/justemails-app/justemails-app-emails-api/) — The Emails API from JustEmails — 17 operation(s) for emails.
+- [JustEmails External Accounts API](https://apis.io/apis/justemails-app/justemails-app-external-accounts-api/) — The external-accounts API from JustEmails — 11 operation(s) for external-accounts.
+- [JustEmails External API](https://apis.io/apis/justemails-app/justemails-app-external-api/) — The external API from JustEmails — 1 operation(s) for external.
+- [JustEmails Identities API](https://apis.io/apis/justemails-app/justemails-app-identities-api/) — The identities API from JustEmails — 1 operation(s) for identities.
+- [JustEmails Inbox API](https://apis.io/apis/justemails-app/justemails-app-inbox-api/) — The inbox API from JustEmails — 1 operation(s) for inbox.
+- [JustEmails Mailboxes API](https://apis.io/apis/justemails-app/justemails-app-mailboxes-api/) — The Mailboxes API from JustEmails — 4 operation(s) for mailboxes.
+- [JustEmails Me API](https://apis.io/apis/justemails-app/justemails-app-me-api/) — The me API from JustEmails — 10 operation(s) for me.
+- [JustEmails Messages API](https://apis.io/apis/justemails-app/justemails-app-messages-api/) — The messages API from JustEmails — 2 operation(s) for messages.
+- [JustEmails Migration API](https://apis.io/apis/justemails-app/justemails-app-migration-api/) — The migration API from JustEmails — 32 operation(s) for migration.
+- [JustEmails OAuth API](https://apis.io/apis/justemails-app/justemails-app-oauth-api/) — The oauth API from JustEmails — 2 operation(s) for oauth.
+- [JustEmails Org API](https://apis.io/apis/justemails-app/justemails-app-org-api/) — The org API from JustEmails — 13 operation(s) for org.
+- [JustEmails Saved Replies API](https://apis.io/apis/justemails-app/justemails-app-saved-replies-api/) — The saved-replies API from JustEmails — 2 operation(s) for saved-replies.
+- [JustEmails Send API](https://apis.io/apis/justemails-app/justemails-app-send-api/) — The Send API from JustEmails — 3 operation(s) for send.
+- [JustEmails Spam API](https://apis.io/apis/justemails-app/justemails-app-spam-api/) — The spam API from JustEmails — 2 operation(s) for spam.
+- [JustEmails Status API](https://apis.io/apis/justemails-app/justemails-app-status-api/) — The status API from JustEmails — 1 operation(s) for status.
+- [JustEmails Suppressions API](https://apis.io/apis/justemails-app/justemails-app-suppressions-api/) — The suppressions API from JustEmails — 2 operation(s) for suppressions.
+- [JustEmails Webhooks API](https://apis.io/apis/justemails-app/justemails-app-webhooks-api/) — The Webhooks API from JustEmails — 5 operation(s) for webhooks.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [JustEmails Agentic Access](https://apis.io/agentic-access/justemails-app/justemails-app-agentic-access/)
+
+#### JSON Schema (5)
+
+The data models the API reads and writes.
+
+- [Domain](https://apis.io/schemas/justemails-app/justemails-app-domain/)
+- [Email](https://apis.io/schemas/justemails-app/justemails-app-email/)
+- [Mailbox](https://apis.io/schemas/justemails-app/justemails-app-mailbox/)
+- [Message](https://apis.io/schemas/justemails-app/justemails-app-message/)
+- [SendTransactionalRequest](https://apis.io/schemas/justemails-app/justemails-app-send-transactional-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Justemails App Context](https://apis.io/jsonld/justemails-app/justemails-app-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [JustEmails API Rules](https://apis.io/rules/justemails-app/justemails-app-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [JustEmails Authentication](https://apis.io/security/justemails-app/justemails-app-authentication/)
+- [JustEmails Domain Security](https://apis.io/security/justemails-app/justemails-app-domain-security/)
+- [JustEmails Vulnerability Disclosure](https://apis.io/security/justemails-app/justemails-app-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [JustEmails Plans Pricing](https://apis.io/plans/justemails-app/justemails-app-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://justemails.app/)
+- [Documentation](https://justemails.app/api-docs)
+- [Getting started](https://justemails.app/blog/email-for-your-own-domain-the-complete-setup)
+- [API reference](https://justemails.app/api-docs)
+- [Pricing](https://justemails.app/pricing)
+- [Blog](https://justemails.app/blog)
+- [Security](https://justemails.app/security)
+- [Terms of service](https://justemails.app/terms)
+- [Privacy policy](https://justemails.app/privacy)
+
+## API Evangelist rating
+
+**Kin Score 58.8** — strong · rubric 0.27.0 · scored 2026-11-13
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 58.2 |
+| Contract governance | 79.1 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 49.3 |
+| Access clarity | 73.2 |
+
+**Agent readiness 50.6** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | verified |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | partial |
+| Operation Distinctiveness | — |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 30.4** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/justemails-app/](https://apis.io/providers/justemails-app/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for JustEmails: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/justemails-app/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
